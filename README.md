@@ -46,4 +46,6 @@
 
 - **[Vagrant Projects](https://github.com/spbNeroGen/vagrant-projects)** - various projects demonstrating the use of Vagrant to deploy pre-built stages.
 
+- **[Infrastructure as Code with Terraform in Yandex Cloud](https://github.com/spbNeroGen/iac-terraform)** - project showcasing the deployment and management of cloud infrastructure using Terraform in Yandex Cloud.
+
 ---
