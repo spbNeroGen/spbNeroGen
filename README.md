@@ -48,4 +48,5 @@
 
 - **[Infrastructure as Code with Terraform in Yandex Cloud](https://github.com/spbNeroGen/iac-terraform)** - project showcasing the deployment and management of cloud infrastructure using Terraform in Yandex Cloud.
 
+- **[Python yandex cloud manager ](https://github.com/spbNeroGen/python-cloud-manager)** - project is training exercise for learning Python by managing virtual machines and resources through a command-line interface.
 ---
