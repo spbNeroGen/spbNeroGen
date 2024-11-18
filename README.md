@@ -40,6 +40,7 @@
 - **Security**: Vault
 - **Monitoring & Logging**: Prometheus + Grafana
 - **Version Control**: GitLab, Bitbucket
+- **Artifactory**: Nexus, Harbor
 - **Other**: Jira, Kanban, Agile
 
 ### <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmpvNjhkdm9tYmxoZGJ3ZmNiZzJuamQxdWowOHJ6eWJ1Y25vMmlqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/Pws9mbaqa1Tr497uBB/giphy.gif" width = 32px> Last pet-projects:
@@ -49,4 +50,7 @@
 - **[Infrastructure as Code with Terraform in Yandex Cloud](https://github.com/spbNeroGen/iac-terraform)** - project showcasing the deployment and management of cloud infrastructure using Terraform in Yandex Cloud.
 
 - **[Python yandex cloud manager ](https://github.com/spbNeroGen/python-cloud-manager)** - project is training exercise for learning Python by managing virtual machines and resources through a command-line interface.
+
+- **[Python scripts](https://github.com/spbNeroGen/python-scripts)** - python scripts for small automation tasks.
+
 ---
