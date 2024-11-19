@@ -53,4 +53,6 @@
 
 - **[Python scripts](https://github.com/spbNeroGen/python-scripts)** - python scripts for small automation tasks.
 
+- **[Nginx OIDC Keycloak](https://github.com/spbNeroGen/nginx-oidc-keycloak)** - example of using NGINX and Keycloak to enable SSO for proxy applications.
+
 ---
