@@ -55,4 +55,6 @@
 
 - **[Nginx OIDC Keycloak](https://github.com/spbNeroGen/nginx-oidc-keycloak)** - example of using NGINX and Keycloak to enable SSO for proxy applications.
 
+- **[K8s monitoring stack](https://github.com/spbNeroGen/k8s-monitoring-stack)** - provides observability for both cluster infrastructure and application workloads (Prometheus + Grafana + Loki).
+
 ---
